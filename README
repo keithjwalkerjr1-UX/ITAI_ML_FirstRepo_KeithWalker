@@ -1,0 +1,48 @@
+# Keith Walker – ITAI 1371 Machine Learning Portfolio
+
+## Course
+ITAI 1371 – Introduction to Machine Learning
+
+## About Me
+My name is Keith Walker. I am interested in machine learning, artificial intelligence, cybersecurity, music recommendation systems, and how AI can be used in real-world products.
+
+This portfolio contains my labs, assignments, midterm project, and final project from ITAI 1371. Throughout the course, I practiced working with datasets, preparing data, training machine learning models, evaluating results, and reflecting on ethical issues in AI.
+
+## Portfolio Structure
+This repository is organized into three main sections:
+
+- **Labs** – Hands-on machine learning exercises
+- **Assignments** – Course assignments and written reflections
+- **Projects** – Midterm and final machine learning projects
+
+## Labs Included
+- Lab 03 – Machine Learning Workflow and Types of Learning
+- Lab 04 – Exploratory Data Analysis
+- Lab 05 – Data Preparation
+- Lab 06 – Regression and Classification
+- Lab 07 – Model Evaluation
+- Lab 08 – Bias-Variance Tradeoff
+- Lab 10 – Unsupervised Learning
+- Lab 11 – Hyperparameter Tuning and AutoML
+- Lab 12 – Ethics, Fairness, and Bias
+
+## Projects Included
+- Midterm Project Topic Selection
+- Midterm Project Report
+- Final Project Topic Selection
+- Final Project Presentation
+- Final Project Report
+
+## Tools Used
+- Python
+- Google Colab
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+- AutoGluon
+- GitHub
+
+## What I Learned
+This course helped me understand the full machine learning workflow, including data cleaning, model training, model evaluation, hyperparameter tuning, clustering, fairness, and project documentation. I also learned how important it is to clearly explain the purpose, process, and results of a machine learning project.
