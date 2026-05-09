@@ -1,0 +1,18 @@
+# Lab 05 – Data Preparation
+
+## Overview
+This lab focused on preparing data before using it in a machine learning model.
+
+## What I Learned
+- How to clean datasets
+- How to handle missing values
+- How to prepare features for machine learning
+- Why preprocessing affects model performance
+
+## Tools Used
+- Python
+- pandas
+- scikit-learn
+
+## Reflection
+This lab helped me understand that machine learning models depend heavily on clean and well-prepared data.
