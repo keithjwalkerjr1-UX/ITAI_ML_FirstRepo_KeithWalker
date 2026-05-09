@@ -1,0 +1,25 @@
+# Final Project Report
+
+## Overview
+This final project used machine learning to build a simple AI DJ recommendation system.
+
+## Dataset
+The project used the Music Info.csv file from the Million Song Dataset + Spotify + Last.fm dataset on Kaggle.
+
+## Goal
+The goal was to predict whether a user would like a song based on music features such as energy, danceability, valence, tempo, and loudness.
+
+## Models Tested
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors
+
+## Results
+Random Forest and Decision Tree performed the best. Random Forest was selected as the final model because it is usually more stable than a single decision tree.
+
+## What I Learned
+I learned how to clean a music dataset, create a simulated target column, train multiple models, compare results, and generate song recommendations.
+
+## Future Improvements
+This project could be improved by using real user listening data such as likes, skips, playlist saves, and replay history.
