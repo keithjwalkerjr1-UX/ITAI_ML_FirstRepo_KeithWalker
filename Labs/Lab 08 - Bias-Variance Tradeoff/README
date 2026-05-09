@@ -1,0 +1,18 @@
+# Lab 08 – Bias-Variance Tradeoff
+
+## Overview
+This lab explored the bias-variance tradeoff and how model complexity affects performance.
+
+## What I Learned
+- What underfitting means
+- What overfitting means
+- How learning curves can show model performance
+- Why a model needs to balance simplicity and complexity
+
+## Tools Used
+- Python
+- scikit-learn
+- matplotlib
+
+## Reflection
+This lab helped me understand why a model can perform well on training data but poorly on new data.
