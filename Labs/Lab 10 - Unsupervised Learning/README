@@ -1,0 +1,18 @@
+# Lab 10 – Unsupervised Learning
+
+## Overview
+This lab introduced unsupervised learning methods such as K-Means clustering and PCA.
+
+## What I Learned
+- How K-Means groups similar data points
+- How the elbow method helps choose the number of clusters
+- How PCA reduces dimensions while keeping important information
+
+## Tools Used
+- Python
+- scikit-learn
+- pandas
+- matplotlib
+
+## Reflection
+This lab helped me understand how machine learning can find patterns in data without using labeled examples.
