@@ -1,0 +1,18 @@
+# Lab 04 – Exploratory Data Analysis
+
+## Overview
+This lab focused on exploratory data analysis, also known as EDA. The goal was to understand a dataset before building a model.
+
+## What I Learned
+- How to inspect a dataset
+- How to check columns, missing values, and data types
+- How to use charts and summary statistics to find patterns
+
+## Tools Used
+- Python
+- pandas
+- matplotlib
+- seaborn
+
+## Reflection
+This lab showed me that understanding the data is an important step before training any machine learning model.
