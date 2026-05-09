@@ -1,0 +1,17 @@
+# Lab 07 – Model Evaluation
+
+## Overview
+This lab focused on evaluating machine learning models after they have been trained.
+
+## What I Learned
+- How to use accuracy, precision, recall, and F1-score
+- How to read a confusion matrix
+- Why accuracy alone does not always explain model performance
+
+## Tools Used
+- Python
+- scikit-learn
+- matplotlib
+
+## Reflection
+This lab helped me understand that evaluating a model requires looking at multiple metrics, not just accuracy.
