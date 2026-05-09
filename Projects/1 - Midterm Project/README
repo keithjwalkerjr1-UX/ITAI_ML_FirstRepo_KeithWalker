@@ -1,0 +1,19 @@
+# Midterm Project Report
+
+## Overview
+This project used machine learning to detect malicious network traffic.
+
+## Dataset
+The project used a subset of the CICDDoS2019 DrDoS_DNS dataset.
+
+## Models Tested
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors
+
+## Results
+Random Forest performed the best overall and was selected as the final model.
+
+## What I Learned
+I learned how to clean a cybersecurity dataset, train multiple classification models, compare performance, and explain model results using accuracy, precision, recall, and F1-score.
