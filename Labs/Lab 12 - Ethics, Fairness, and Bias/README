@@ -1,0 +1,18 @@
+# Lab 12 – Ethics, Fairness, and Bias
+
+## Overview
+This lab explored fairness and bias in machine learning models.
+
+## What I Learned
+- How model performance can differ across groups
+- How to compare subgroup accuracy
+- How false positive and false negative rates can show unfair outcomes
+- Why removing a sensitive column does not always remove bias
+
+## Tools Used
+- Python
+- pandas
+- scikit-learn
+
+## Reflection
+This lab helped me understand that machine learning models can affect people differently and should be reviewed carefully before being used in real-world decisions.
