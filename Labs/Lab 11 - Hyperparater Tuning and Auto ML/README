@@ -1,0 +1,19 @@
+# Lab 11 – Hyperparameter Tuning and AutoML
+
+## Overview
+This lab focused on improving machine learning models using hyperparameter tuning and AutoML.
+
+## What I Learned
+- The difference between model parameters and hyperparameters
+- How Grid Search tests all selected parameter combinations
+- How Random Search tests a random sample of parameter combinations
+- How AutoML can automatically compare multiple models
+
+## Tools Used
+- Python
+- scikit-learn
+- AutoGluon
+- Google Colab
+
+## Reflection
+This lab helped me understand how tuning can improve model performance and how AutoML can speed up the model selection process.
