@@ -1,0 +1,17 @@
+# Lab 06 – Regression and Classification
+
+## Overview
+This lab introduced regression and classification, two major types of supervised machine learning.
+
+## What I Learned
+- Regression is used to predict numbers
+- Classification is used to predict categories
+- How to train and evaluate basic supervised learning models
+
+## Tools Used
+- Python
+- scikit-learn
+- pandas
+
+## Reflection
+This lab helped me understand when to use regression versus classification depending on the type of problem being solved.
