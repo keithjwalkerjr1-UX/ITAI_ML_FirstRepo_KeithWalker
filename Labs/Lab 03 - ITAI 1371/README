@@ -1,0 +1,17 @@
+# Lab 03 – Machine Learning Workflow and Types of Learning
+
+## Overview
+This lab introduced the basic machine learning workflow and the main types of machine learning.
+
+## What I Learned
+- How a machine learning project is structured
+- The difference between supervised and unsupervised learning
+- How models use data to make predictions or find patterns
+
+## Tools Used
+- Python
+- Google Colab
+- scikit-learn
+
+## Reflection
+This lab helped me understand the overall process of machine learning before going deeper into specific models and techniques.
